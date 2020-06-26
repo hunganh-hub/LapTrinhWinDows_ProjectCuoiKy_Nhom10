@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DBDangNhapModelStoreContainer" CdmEntityContainer="DBDangNhapEntities">
+    <EntitySetMapping Name="BangDangNhaps">
+      <EntityTypeMapping TypeName="DBDangNhapModel.BangDangNhap">
+        <MappingFragment StoreEntitySet="BangDangNhap">
+          <ScalarProperty Name="TenDangNhap" ColumnName="TenDangNhap" />
+          <ScalarProperty Name="MatKhau" ColumnName="MatKhau" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

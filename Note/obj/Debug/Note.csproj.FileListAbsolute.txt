@@ -1,0 +1,36 @@
+C:\Users\nhanv\Desktop\Đồ án cuối kỳ\Note\bin\Debug\Note.exe
+C:\Users\nhanv\Desktop\Đồ án cuối kỳ\Note\bin\Debug\Note.exe.config
+C:\Users\nhanv\Desktop\Đồ án cuối kỳ\Note\bin\Debug\Note.pdb
+C:\Users\nhanv\Desktop\Đồ án cuối kỳ\Note\obj\Debug\Note.csprojAssemblyReference.cache
+C:\Users\nhanv\Desktop\Đồ án cuối kỳ\Note\obj\Debug\Note.Views.DrawNote.resources
+C:\Users\nhanv\Desktop\Đồ án cuối kỳ\Note\obj\Debug\Note.Views.IntroduceSimpleNote.resources
+C:\Users\nhanv\Desktop\Đồ án cuối kỳ\Note\obj\Debug\Note.Views.LoginNote.resources
+C:\Users\nhanv\Desktop\Đồ án cuối kỳ\Note\obj\Debug\Note.frmMainSimpleNote.resources
+C:\Users\nhanv\Desktop\Đồ án cuối kỳ\Note\obj\Debug\Note.Properties.Resources.resources
+C:\Users\nhanv\Desktop\Đồ án cuối kỳ\Note\obj\Debug\Note.csproj.GenerateResource.cache
+C:\Users\nhanv\Desktop\Đồ án cuối kỳ\Note\obj\Debug\Note.exe
+C:\Users\nhanv\Desktop\Đồ án cuối kỳ\Note\obj\Debug\Note.pdb
+C:\Users\nhanv\Desktop\Đồ án cuối kỳ\Note\bin\Debug\EntityFramework.dll
+C:\Users\nhanv\Desktop\Đồ án cuối kỳ\Note\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nhanv\Desktop\Đồ án cuối kỳ\Note\bin\Debug\EntityFramework.xml
+C:\Users\nhanv\Desktop\Đồ án cuối kỳ\Note\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nhanv\Desktop\Đồ án cuối kỳ\Note\obj\Debug\Note.csproj.CopyComplete
+C:\Users\Admin\Desktop\Note\bin\Debug\Note.exe.config
+C:\Users\Admin\Desktop\Note\bin\Debug\Note.exe
+C:\Users\Admin\Desktop\Note\bin\Debug\Note.pdb
+C:\Users\Admin\Desktop\Note\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\Note\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Note\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\Note\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Note\obj\Debug\Note.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Note\obj\Debug\Note.Views.frmCreateAccountNote.resources
+C:\Users\Admin\Desktop\Note\obj\Debug\Note.Views.DrawNote.resources
+C:\Users\Admin\Desktop\Note\obj\Debug\Note.Views.IntroduceSimpleNote.resources
+C:\Users\Admin\Desktop\Note\obj\Debug\Note.Views.LoginNote.resources
+C:\Users\Admin\Desktop\Note\obj\Debug\Note.frmMainSimpleNote.resources
+C:\Users\Admin\Desktop\Note\obj\Debug\Note.Properties.Resources.resources
+C:\Users\Admin\Desktop\Note\obj\Debug\Note.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Note\obj\Debug\Note.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Note\obj\Debug\Note.csproj.CopyComplete
+C:\Users\Admin\Desktop\Note\obj\Debug\Note.exe
+C:\Users\Admin\Desktop\Note\obj\Debug\Note.pdb

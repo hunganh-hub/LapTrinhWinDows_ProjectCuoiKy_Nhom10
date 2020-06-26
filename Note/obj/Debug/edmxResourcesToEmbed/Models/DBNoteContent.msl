@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DBNoteContentModel1StoreContainer" CdmEntityContainer="DBNoteContentEntities">
+    <EntitySetMapping Name="ContentNotes">
+      <EntityTypeMapping TypeName="DBNoteContentModel1.ContentNote">
+        <MappingFragment StoreEntitySet="ContentNote">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Title" ColumnName="Title" />
+          <ScalarProperty Name="NoteContent" ColumnName="NoteContent" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
